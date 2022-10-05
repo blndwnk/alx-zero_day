@@ -1,1 +1,1 @@
-echo "My first readme Updates" > up_to_date
+git pull
